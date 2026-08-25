@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ذِكْرَى - DHIKRA</string>
+    <string name="home">الرئيسية</string>
+    <string name="quran">القرآن</string>
+    <string name="azkar">الأذكار</string>
+    <string name="prayer">الصلاة</string>
+    <string name="more">المزيد</string>
+    <string name="next_prayer">الصلاة القادمة</string>
+    <string name="continue_reading">واصل قراءتك</string>
+    <string name="assalamu_alaikum">السلام عليكم</string>
+</resources>
